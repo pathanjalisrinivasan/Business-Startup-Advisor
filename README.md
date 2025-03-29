@@ -27,8 +27,8 @@ These agents collaborate using the MCP to provide a holistic startup plan, demon
 1.  **Clone the repository (if applicable):**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/pathanjalisrinivasan/Business-Startup-Advisor.md
+    cd Business-Startup-Advisor
     ```
 
 2.  **Install required Python packages:**
