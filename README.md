@@ -91,3 +91,9 @@ These agents collaborate using the MCP to provide a holistic startup plan, demon
 * More specialized agents for specific business domains.
 * Ability to save and load startup plans.
 * Add more robust error handling.
+
+## Contributing
+If you’d like to contribute to this project, feel free to open an issue or submit a pull request. Your feedback and contributions are welcome!
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
