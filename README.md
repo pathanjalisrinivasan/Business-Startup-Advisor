@@ -1,6 +1,6 @@
 # Business Startup Advisor with MCP Agents
 
-This project demonstrates the use of agent-based systems and the Model Context Protocol (MCP) to create a comprehensive business startup advisor. It utilizes specialized AI agents to analyze various aspects of a business idea, providing a structured and insightful startup plan.
+This project demonstrates the use of agent-based systems and the Model Context Protocol to create a comprehensive business startup advisor. It utilizes specialized AI agents to analyze various aspects of a business idea, providing a structured and insightful startup plan.
 
 ## Overview
 
@@ -94,6 +94,3 @@ These agents collaborate using the MCP to provide a holistic startup plan, demon
 
 ## Contributing
 If you’d like to contribute to this project, feel free to open an issue or submit a pull request. Your feedback and contributions are welcome!
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
